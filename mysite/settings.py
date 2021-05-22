@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #application create by me
     'blog',
     'infopage',
+    'blog',
 ]
 
 MIDDLEWARE = [
